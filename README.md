@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Keith Noro</h1>
+<h1 align="center">Hello 👋, my name is Keith Noro</h1>
 <h3 align="center">Frontend developer</h3>
 
 - 🌱 I’m currently learning **Javascript, React, MERN**
