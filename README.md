@@ -2,11 +2,11 @@
 <h3 align="center">Frontend developer</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif">
 
-🌱 I’m currently learning **Javascript, React, MERN**
+I’m currently learning **Javascript, React, MERN**
 
-📫 How to reach me **keesu126@gmail.com**
+How to reach me **keesu126@gmail.com**
 
-⚡ Fun fact **Fluency in Japanese**
+Fun fact **Fluency in Japanese**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
