@@ -4,7 +4,7 @@
 
 I’m currently learning **Javascript, React, MERN**
 
-How to reach me **keesu126@gmail.com**
+How to reach me **knoro1226@gmail.com**
 
 Fun fact **Fluency in Japanese**
 
